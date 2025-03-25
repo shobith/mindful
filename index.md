@@ -25,13 +25,5 @@ Mindful Meditation Timer is a simple, elegant app designed to help you cultivate
 4. Find a comfortable position
 5. Begin your mindful journey
 
-### 📱 Download Now
-
-[![App Store](assets/app-store-badge.svg)](https://apps.apple.com/app/mindful-meditation)
-[![Play Store](assets/play-store-badge.svg)](https://play.google.com/store/apps/details?id=com.mindful.meditation) [coming soon!]
-
-Need help? Contact us at support@mindfulapp.com
-
----
 
 © 2025 Mindful Meditation Timer. All rights reserved.
