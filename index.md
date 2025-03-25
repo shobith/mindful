@@ -1,6 +1,6 @@
 # Mindful Meditation Timer
 
-![Meditation Timer](assets/meditation.svg)
+![Mindful Meditation Timer](assets/meditation.png)
 
 ## Find Your Inner Peace
 
@@ -8,18 +8,14 @@ Mindful Meditation Timer is a simple, elegant app designed to help you cultivate
 
 ### 🌟 Key Features
 
-- **Customizable Timer**: Set your preferred meditation duration with gentle start and end bells
-- **Interval Bells**: Optional interval bells to help maintain awareness during longer sessions
-- **Ambient Sounds**: Choose from a variety of calming nature sounds
-- **Progress Tracking**: Monitor your meditation journey with detailed statistics
-- **Guided Sessions**: Access a library of guided meditation sessions for different purposes
+- **Customizable Timer**: Set your preferred meditation duration with a gentle start and end sound
+- **Progress Tracking**: Monitor your meditation journey with your meditation minutes logged to Apple Health under mindful minutes.
 
 ### 💫 Why Choose Mindful?
 
 - **Distraction-Free**: Clean, minimalist interface that keeps you focused
 - **Flexible**: Perfect for both beginners and experienced practitioners
 - **Progress Insights**: Track your meditation streak and total mindful minutes
-- **Community**: Join a growing community of mindful meditators
 
 ### 🎯 Getting Started
 
@@ -32,18 +28,10 @@ Mindful Meditation Timer is a simple, elegant app designed to help you cultivate
 ### 📱 Download Now
 
 [![App Store](assets/app-store-badge.svg)](https://apps.apple.com/app/mindful-meditation)
-[![Play Store](assets/play-store-badge.svg)](https://play.google.com/store/apps/details?id=com.mindful.meditation)
-
-### 🤝 Connect With Us
-
-- [Twitter](https://twitter.com/mindfulapp)
-- [Instagram](https://instagram.com/mindfulapp)
-- [Facebook](https://facebook.com/mindfulapp)
-
-### 📧 Support
+[![Play Store](assets/play-store-badge.svg)](https://play.google.com/store/apps/details?id=com.mindful.meditation) [coming soon!]
 
 Need help? Contact us at support@mindfulapp.com
 
 ---
 
-© 2024 Mindful Meditation Timer. All rights reserved.
+© 2025 Mindful Meditation Timer. All rights reserved.
