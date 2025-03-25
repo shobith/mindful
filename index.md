@@ -21,9 +21,8 @@ Mindful Meditation Timer is a simple, elegant app designed to help you cultivate
 
 1. Download the app from your preferred app store
 2. Choose your meditation duration
-3. Select optional ambient sounds
-4. Find a comfortable position
-5. Begin your mindful journey
+3. Find a comfortable position
+4. Begin your mindful journey
 
 
 © 2025 Mindful Meditation Timer. All rights reserved.

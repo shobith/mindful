@@ -2,4 +2,6 @@ theme: jekyll-theme-cayman
 title: Mindful Meditation Timer
 description: Find peace and mindfulness with our elegant meditation timer
 show_downloads: false
+github:
+  is_project_page: false
 google_analytics:
